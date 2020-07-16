@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+.menu-navegacion{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin: 20px;
+  li{
+      list-style: none;
+      width: 100px;
+      a{
+          text-decoration: none;
+          background-color: blue;
+          color: #ffffff;
+         padding: 10px;
+      }
+  }
+}
