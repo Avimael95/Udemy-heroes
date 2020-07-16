@@ -1,0 +1,1 @@
+alert('Bien venido a la plataforma');
