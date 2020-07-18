@@ -1,5 +1,7 @@
 ## La nueva lista de misiones
 
 * Correr en las mañanas
-* Saltar en la noche
-* Mover la silla
+* se completo Saltar en la noche
+* se completo la mision Mover la silla
+
+
