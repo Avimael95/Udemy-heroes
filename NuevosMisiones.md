@@ -4,4 +4,6 @@
 * se completo Saltar en la noche
 * se completo la mision Mover la silla
 
+* Destruccion del mundo
+
 

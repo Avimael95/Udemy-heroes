@@ -7,3 +7,4 @@
 * Rosita Orbegozo Diaz
 * Liduvina Ramos Trinidad
 * Nelly Laurente Ramirez
+* Agregamos la nueva mision
