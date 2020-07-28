@@ -2,7 +2,3 @@
 
 # ´install npm´
 * instalar sass
-
-## GitHub
-
-* Cambios realizados desde la web
