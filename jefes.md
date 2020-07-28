@@ -3,5 +3,5 @@
 * Avimael gervacio requena
 * Rosita Orbegozo Diaz
 * Nelly Laurente Ramirez
-* Rocio Balbuena 
+
 
