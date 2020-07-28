@@ -5,4 +5,4 @@
 * Flash Reverso
 
 * Rocio Balbuena Padilla
-* Nelly Laurente Ramirez
+
